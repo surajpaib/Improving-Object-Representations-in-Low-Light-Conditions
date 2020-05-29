@@ -2,6 +2,8 @@
 
 This code accompanies the final assignment report for the ComputerVision-KEN4255 course and provides reproducible instructions and data.
 
+Report uploaded at: https://drive.google.com/open?id=1868zWBrtaP3FqjrDzwbPzaFqy2SURXzl
+
 ## Layout
 First the layout of the codebase is described which contains the following folders,
 
